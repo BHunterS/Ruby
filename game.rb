@@ -1,6 +1,6 @@
 def play_game(player, computer)
     if player == computer
-        return "It's a tie"   
+        return "It's equal"   
     elsif (player == "stone" && computer == "scissors") ||
         (player == "scissors" && computer == "paper") ||
         (player == "paper" && computer == "stone")
