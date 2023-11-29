@@ -1,0 +1,27 @@
+{
+  "users": [
+    { "name": "John Doe", "age": 25, "email": "john.doe@example.com" },
+    { "name": "Jane Smith", "age": 32, "email": "jane.smith@example.com" },
+    { "name": "Bob Johnson", "age": 45, "email": "bob.johnson@example.com" }
+  ],
+  "products": [
+    { "name": "Widget", "price": 19.99, "quantity": 50 },
+    { "name": "Gadget", "price": 49.99, "quantity": 30 }
+  ],
+  "addresses": [
+    { "street": "123 Main St", "city": "Anytown", "state": "CA", "zip_code": "12345" },
+    { "street": "456 Oak St", "city": "Othertown", "state": "NY", "zip_code": "67890" }
+  ],
+  "companies": [
+    { "name": "Acme Corporation", "industry": "Technology", "catch_phrase": "Innovate and Excel" },
+    { "name": "XYZ Ltd.", "industry": "Finance", "catch_phrase": "Security and Trust" }
+  ],
+  "books": [
+    { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "genre": "Classic" },
+    { "title": "To Kill a Mockingbird", "author": "Harper Lee", "genre": "Fiction" }
+  ],
+  "events": [
+    { "name": "Conference", "date": "2023-12-01", "location": "Convention Center" },
+    { "name": "Workshop", "date": "2023-11-15", "location": "Training Facility" }
+  ]
+}
